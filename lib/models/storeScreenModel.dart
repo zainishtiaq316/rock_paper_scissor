@@ -31,7 +31,7 @@ final List<storeScreenModel> dataItem = [
     price: 60,
   ),
   storeScreenModel(
-    imagePath: 'assets/images/bag2.png',
+    imagePath: 'assets/images/money_draw.png',
     coinImage: 'assets/svg_img/golden_coin.svg',
     score: 400,
     price: 70,
